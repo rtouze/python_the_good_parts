@@ -8,3 +8,5 @@ Github.
 If you want to generate the slides, just ask Jupyter to convert it:
 
     jupyter nbconvert --to=slides --post=server python_the_good_parts.ipynb
+
+[jup]: http://jupyter.org/ "Jupyter (ipython) official web site"
